@@ -35,4 +35,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Moringa School
 * Carol Wanjohi
 * Bucky Roberts
+<<<<<<< HEAD
 * Andrew Anampiu
+=======
+>>>>>>> 37bffccbaa3161f38fea4c61bbcd4b57c4bbce25
