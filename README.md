@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Pig dice
 
 This is a game that teaches on probability by rolling a dice.
@@ -36,7 +36,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Carol Wanjohi
 * Andrew Anampiu
 * Bucky Roberts
-=======
-# pigsDice
-A game that involves rolling a dice
->>>>>>> origin/master
