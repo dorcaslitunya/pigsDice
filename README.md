@@ -36,3 +36,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Carol Wanjohi
 * Andrew Anampiu
 * Bucky Roberts
+
+MIT License
+
+Copyright (c) [y2018] [Dorcas Litunya]
