@@ -36,6 +36,13 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Carol Wanjohi
 * Bucky Roberts
 <<<<<<< HEAD
+<<<<<<< HEAD
 * Andrew Anampiu
 =======
 >>>>>>> 37bffccbaa3161f38fea4c61bbcd4b57c4bbce25
+=======
+
+MIT License
+
+Copyright (c) [y2018] [Dorcas Litunya]
+>>>>>>> eb2875a60bb425f0b98812edf9d375d9e8b23c79
