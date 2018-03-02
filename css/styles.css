@@ -1,0 +1,15 @@
+body{
+  background-color: #6F1C3F
+}
+.container-fluid{
+  text-align: center;
+  font-style: normal;
+  font-weight: 600;
+  color: white
+}
+#head{
+  color: #1E39BE ;
+  font-size: 50px;
+  text-decoration: underline;
+
+}
