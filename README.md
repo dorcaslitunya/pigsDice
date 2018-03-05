@@ -44,5 +44,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 MIT License
 
+<<<<<<< HEAD
 Copyright (c) [y2018] [Dorcas Litunya]
 >>>>>>> eb2875a60bb425f0b98812edf9d375d9e8b23c79
+=======
+Copyright (c) 2018 Dorcas Litunya
+>>>>>>> 1baf8c6a6c76b6b78f6ea8301f0c75fcbc95317a

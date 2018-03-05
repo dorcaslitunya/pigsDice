@@ -1,0 +1,31 @@
+body{
+  background-color: #6F1C3F
+}
+.container-fluid{
+  text-align: center;
+  font-style: normal;
+  font-weight: 600;
+  color: white
+}
+#head{
+  color: #1E39BE ;
+  font-size: 50px;
+  text-decoration: underline;
+
+}
+#new{
+font-size: 20px;
+font-weight: bolder;;
+}
+#white{
+  background-color: white;
+  text-align: center;
+  height: 100vh;
+
+}
+#yellow{
+  background-color: #FBFF8A;
+  text-align: center;
+  height:100vh;
+
+}
