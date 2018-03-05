@@ -13,3 +13,17 @@ body{
   text-decoration: underline;
 
 }
+#new{
+position: absolute;
+text-align: center;
+}
+#white{
+  background-color: white;
+  text-align: center;
+
+}
+#yellow{
+  background-color: #FBFF8A;
+  text-align: center;
+
+}
